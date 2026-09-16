@@ -23,4 +23,3 @@ permalink: /
 [주제2](/wiki/docs/프로젝트/주제2){: .btn .btn-blue }
 
 [주제3](/wiki/docs/프로젝트/주제3){: .btn .btn-blue }
-
