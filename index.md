@@ -24,6 +24,6 @@ permalink: /
 
 [입자가속기의 발전과 하전입자의 상대론적 운동 이해](/wiki/docs/project/3){: .btn .btn-blue }
 
-## 코드 저장소 (Github)
+## 소스코드 저장소
 
-깃허브 주소: <a href="https://github.com/astronomyguide/wiki">https://github.com/astronomyguide/wiki</a>
+소학회 위키 홈페이지의 전체 소스코드는 [GitHub 저장소](https://github.com/astronomyguide/wiki)에서 확인하실 수 있습니다.
