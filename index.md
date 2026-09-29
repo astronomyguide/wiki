@@ -12,6 +12,8 @@ permalink: /
 
 <div class="margin-top: 37px;"></div>
 
+---
+
 ## 주제 선택 바로가기
 
 아래 버튼을 클릭하시면 주제별 해당 페이지로 이동합니다.
@@ -23,6 +25,8 @@ permalink: /
 [물리, 천문 연계 아카이브 구축](/wiki/docs/project/2){: .btn .btn-outline }
 
 [입자가속기의 발전과 하전입자의 상대론적 운동 이해](/wiki/docs/project/3){: .btn .btn-outline }
+
+---
 
 ## 소스코드 저장소
 
