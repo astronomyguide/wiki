@@ -18,11 +18,11 @@ permalink: /
 
 <div class="margin-bottom: 37px;"></div>
 
-[블랙홀에 대한 심화 이해 및 시뮬레이션](/wiki/docs/project/1){: .btn .btn-blue } 
+[블랙홀에 대한 심화 이해 및 시뮬레이션](/wiki/docs/project/1){: .btn .btn-outline } 
 
-[물리, 천문 연계 아카이브 구축](/wiki/docs/project/2){: .btn .btn-blue }
+[물리, 천문 연계 아카이브 구축](/wiki/docs/project/2){: .btn .btn-outline }
 
-[입자가속기의 발전과 하전입자의 상대론적 운동 이해](/wiki/docs/project/3){: .btn .btn-blue }
+[입자가속기의 발전과 하전입자의 상대론적 운동 이해](/wiki/docs/project/3){: .btn .btn-outline }
 
 ## 소스코드 저장소
 
