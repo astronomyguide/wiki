@@ -18,8 +18,8 @@ permalink: /
 
 <div class="margin-bottom: 37px;"></div>
 
-[주제1](/wiki/docs/프로젝트/주제1){: .btn .btn-blue }
+[주제1](/wiki/docs/project/1){: .btn .btn-blue }
 
-[주제2](/wiki/docs/프로젝트/주제2){: .btn .btn-blue }
+[주제2](/wiki/docs/project/2){: .btn .btn-blue }
 
-[주제3](/wiki/docs/프로젝트/주제3){: .btn .btn-blue }
+[주제3](/wiki/docs/project/3){: .btn .btn-blue }
