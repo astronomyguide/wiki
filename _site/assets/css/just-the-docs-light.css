@@ -557,7 +557,7 @@ body {
   font-family: system-ui, -apple-system, blinkmacsystemfont, "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif, "Segoe UI Emoji";
   font-size: inherit;
   line-height: 1.4;
-  color: #5c5962;
+  color: black;
   background-color: #fff;
   overflow-wrap: break-word;
 }
@@ -1669,7 +1669,7 @@ h6,
   height: 100%;
   padding: 0.5rem 1rem 0.5rem 2.5rem;
   font-size: 1rem;
-  color: #5c5962;
+  color: black;
   background-color: #fff;
   border-top: 0;
   border-right: 0;
@@ -2060,13 +2060,13 @@ figure.highlight > button {
   padding: 0.75rem;
   border: none;
   background: none;
-  color: #5c5962;
+  color: black;
   box-sizing: content-box;
 }
 div.highlighter-rouge > button svg,
 div.listingblock > div.content > button svg,
 figure.highlight > button svg {
-  fill: #5c5962;
+  fill: black;
 }
 div.highlighter-rouge > button:active,
 div.listingblock > div.content > button:active,
@@ -2092,7 +2092,7 @@ div.highlighter-rouge div.highlight {
   overflow-x: auto;
   padding: 0.75rem;
   margin: 0;
-  border: 1px solid #5c5962;
+  border: 1px solid black;
   border-radius: 4px;
 }
 div.highlighter-rouge pre.highlight,
@@ -2110,7 +2110,7 @@ div.listingblock div.content {
   overflow-x: auto;
   padding: 0.75rem;
   margin: 0;
-  border: 1px solid #5c5962;
+  border: 1px solid black;
   border-radius: 4px;
 }
 div.listingblock div.content > pre,
@@ -2125,7 +2125,7 @@ figure.highlight :not(pre) > code {
   overflow-x: auto;
   padding: 0.75rem;
   margin: 0;
-  border: 1px solid #5c5962;
+  border: 1px solid black;
   border-radius: 4px;
 }
 
@@ -2196,7 +2196,7 @@ code.language-mermaid {
 .highlight,
 pre.highlight {
   background: #fff;
-  color: #5c5962;
+  color: black;
 }
 
 .highlight pre {
