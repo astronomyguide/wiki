@@ -113,7 +113,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Github":
+  "DAWN 위키 저장소":
     - "https://github.com/astronomyguide/wiki"
 
 # Makes Aux links open in a new tab. Default is false
