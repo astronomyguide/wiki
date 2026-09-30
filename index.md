@@ -10,15 +10,13 @@ permalink: /
 
 이번 학기에 소학회에서 진행할 프로젝트에 대해 소개하는 페이지입니다.
 
-<div class="margin-top: 37px;"></div>
+<div style="margin-top: 37px;"></div>
 
 ---
 
 ## 프로젝트 주제 바로가기
 
 아래 버튼을 클릭하시면 주제별 해당 페이지로 이동합니다.
-
-<div class="margin-bottom: 37px;"></div>
 
 [블랙홀에 대한 심화 이해 및 시뮬레이션](/wiki/docs/project/1){: .btn .btn-outline } 
 
@@ -31,3 +29,11 @@ permalink: /
 ## 소스코드 저장소
 
 소학회 위키 홈페이지의 전체 소스코드는 [GitHub 저장소](https://github.com/astronomyguide/wiki)에서 확인하실 수 있습니다.
+
+---
+
+## 출처
+
+<p style="font-size: 0.85em;">
+  본 웹사이트는 <a href="https://just-the-docs.github.io/just-the-docs/" target="_blank" rel="noopener">Just the Docs</a>를 통해 제작되었습니다.
+</p>
